@@ -1,0 +1,11 @@
+{
+  "name": "synthetic-tests-e2e",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NYULibraries/synthetic-tests-e2e.git",
+  "author": "laurxnemeth <lauranemeth.pr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^7.1.0"
+  }
+}
